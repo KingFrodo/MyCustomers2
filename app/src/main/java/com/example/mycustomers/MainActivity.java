@@ -24,6 +24,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
     //habs commit vergessen
     //tschuldigung
+    //nineth commit
     public List<Customer> customers = new ArrayList<>();
     public List<String> names = new ArrayList<>();
     public ArrayAdapter<String> arrAdapter;
