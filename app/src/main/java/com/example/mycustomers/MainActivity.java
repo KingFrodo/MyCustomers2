@@ -62,6 +62,8 @@ public class MainActivity extends AppCompatActivity {
                 arrAdapter.getFilter().filter(newText);
                 return false;
             }
+
+            
         });
     }
 
