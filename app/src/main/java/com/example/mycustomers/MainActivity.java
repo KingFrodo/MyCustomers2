@@ -84,6 +84,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void readAssets(){
+        //testen
         InputStream in = getInputStreamForAsset(file.getName());
         BufferedReader br = new BufferedReader(new InputStreamReader(in));
         String line;
