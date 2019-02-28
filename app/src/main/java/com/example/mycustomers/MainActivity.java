@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private InputStream getInputStreamForAsset(String filename){
+        //testen
         AssetManager assets = getAssets();
 
         try {
